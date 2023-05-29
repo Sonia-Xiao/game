@@ -1,0 +1,11 @@
+body{
+    background-image:url(https://st3.depositphotos.com/1269993/18679/i/950/depositphotos_186795472-stock-photo-white-horizontal-rough-note-paper.jpg);
+}
+h1,p{
+    text-align: center;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
